@@ -1,0 +1,12 @@
+/run/initialize
+
+# /gun/particle proton
+# /gun/energy 300 MeV
+/run/beamOn 100
+
+#/geom/d0 20 cm
+#/abs/z_block 10 cm
+#/geom/updateGeom
+#/primaryGen/direction iso
+
+#/run/beamOn 10
